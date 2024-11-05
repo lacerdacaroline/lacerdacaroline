@@ -52,7 +52,7 @@ jobs:
 
       - name: Generate GitHub Contributions Snake Animations
 
-        uses: lacerdacaroline
+        uses: Platane/snk@v3
 
         with:
 
