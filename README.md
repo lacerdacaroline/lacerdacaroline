@@ -33,7 +33,6 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://img.icons8.com/color/512/console.png" width="40" height="40"/> </a>
   <a href="https://html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> </a>
@@ -48,8 +47,6 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> </a>
   <a href="https://www.heroku.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="40" height="40"/> </a>        
- 
- 
   <a href="https://www.microsoft.com/pt-br/microsoft-365?rtc=1" target="_blank"> <img src="https://img.icons8.com/color/512/ms-excel.png" width="40" height="40"/> </a>
 <br>
 <br>
@@ -74,8 +71,11 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 ### ⚙️ &nbsp; Git Analytics
  
  <div align="center">
-  <h2 align="center">📊  Github Stats  📊</h2> 
-
+  <h2 align="center"> Github Stats</h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacerdacaroline&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
   ![](https://github-readme-stats.vercel.app/api?username=lacerdacaroline&show_icons=true&theme=dark)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdacaroline&theme=dark&layout=compact)
