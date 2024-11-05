@@ -75,10 +75,7 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacerdacaroline&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
------- 
-
- 
-![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-contribution-grid-snake.svg)
-
-
-![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-contribution-grid-snake.svg)
+------ <div align="center">
+    
+  ![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-snake-dark.svg)
+</div>
