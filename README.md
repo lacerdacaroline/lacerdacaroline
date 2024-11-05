@@ -80,5 +80,5 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-snake-light.svg)
 </div>
