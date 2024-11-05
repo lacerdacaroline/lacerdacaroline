@@ -71,10 +71,8 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 ### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> &nbsp; Git Stats
  
  <div align="center">
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline" alt="Gift's LangStat" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacerdacaroline&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>  
 </div>
 
 ------
