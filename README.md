@@ -76,6 +76,8 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 </div>
 
 ------
+<div>
+ ![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
-![snake gif](https://github.com/lacerdacaroline/lacerdacaroline/blob/output/github-contribution-grid-snake.svg)
