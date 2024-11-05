@@ -71,15 +71,11 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 ### ⚙️ &nbsp; Git Analytics
  
  <div align="center">
-  <h2 align="center"> Github Stats</h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+  <h2 align="center"> Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px></h2> 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lacerdacaroline&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
-  ![](https://github-readme-stats.vercel.app/api?username=lacerdacaroline&show_icons=true&theme=dark)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=lacerdacaroline&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdacaroline&theme=dark&layout=compact)
-<br>
+</div>  
 </div>
 
 ------
