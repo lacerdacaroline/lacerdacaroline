@@ -7,9 +7,9 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about React.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for a Job.
+<!-- - :seedling: I’m currently learning about React. -->
+- :computer: Most used line of code `npm run dev`.
+
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 
