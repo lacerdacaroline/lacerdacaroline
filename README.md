@@ -66,8 +66,9 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 <p align="center">
     <img src="https://cdn-icons-png.flaticon.com/512/206/206724.png" width="38" height="38"/> <img src="https://img.shields.io/badge/Spanish-Fluent-red?style=for-the-badge&"/> <img src="https://cdn-icons-png.flaticon.com/512/206/206724.png" width="38" height="38"/>
 </div>
- -->
 ---
+ -->
+
 
 ### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> &nbsp; Git Stats
  
