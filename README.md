@@ -27,8 +27,8 @@ I'm Caroline Lacerda, a passionate Front-end Developer 💻.
 
 
 <p align="center">
-  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />a width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
   <a href="https://rubyonrails.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/512/ruby-programming-language.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> </a>
